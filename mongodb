@@ -1,0 +1,10 @@
+#
+install
+```
+apt-get install mongodb
+```
+#start
+```
+mongod  --dbpath ~/snailpi_db --auth --fork --logpath ~/snailpi_log/db.log
+```
+
