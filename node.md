@@ -1,4 +1,4 @@
-#
+#从源码编译安装
 ```
 sudo apt-get install curl
 curl http://npmjs.org/install.sh | sudo sh
