@@ -1,5 +1,4 @@
-#
-install
+#install
 ```
 apt-get install mongodb
 ```
