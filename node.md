@@ -1,4 +1,15 @@
-#从源码编译安装
+#mac
+```
+brew install node
+brew install --HEAD watchman
+brew install flow
+```
+#mac 快速开始
+```
+npm install -g react-native-cli
+react-native init AwesomeProject
+```
+#linux && freeBSD 从源码编译安装
 ```
 sudo apt-get install curl
 curl http://npmjs.org/install.sh | sudo sh
