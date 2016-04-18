@@ -25,7 +25,7 @@ n stable
 ```
 npm install supervisor -g
 ```
-安装 csreen
+安装 screen
 ```
 apt-get install screen
 ```
