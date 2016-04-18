@@ -4,6 +4,15 @@ brew install node
 brew install --HEAD watchman
 brew install flow
 ```
+ubuntu
+```
+curl -sL https://deb.nodesource.com/setup | bash -
+apt-get install -y nodejs
+apt-get install -y npm
+npm install n
+n stable
+npm install supervisor -g
+```
 #mac 快速开始
 ```
 npm install -g react-native-cli
