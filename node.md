@@ -4,14 +4,30 @@ brew install node
 brew install --HEAD watchman
 brew install flow
 ```
-ubuntu
+#ubuntu
+##安装源
 ```
 curl -sL https://deb.nodesource.com/setup | bash -
-apt-get install -y nodejs
+```
+安装npm
+```
 apt-get install -y npm
+```
+安装n模块
+```
 npm install n
+```
+安装最新稳定版 node
+```
 n stable
+```
+安装 supervisor
+```
 npm install supervisor -g
+```
+安装 csreen
+```
+apt-get install screen
 ```
 #mac 快速开始
 ```
